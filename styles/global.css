@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+:root {
+    /* Product */
+    --brand-color: #ef5f4c;
+
+    /* Shape */
+    --bg-color: #FFFFFF;
+    --surface-color: #F5F5F5;
+    --skeleton-color: #D9D9D9;
+    --shape-transparency: #ffffff90 56%;
+
+    /* Text */
+    --text-primary: #313131;
+    --text-secondary: #6C6C6C;
+}
+
+body {
+    color: var(--text-secondary);
+    background-color: var(--brand-color);
+}
