@@ -4,6 +4,9 @@
 }
 
 :root {
+     --test: 1px solid red;
+     --test2: 1px solid blue;
+
     /* Product */
     --brand-color: #ef5f4c;
 
